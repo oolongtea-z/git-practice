@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 ローカルリポで保存
-rebase-practiceブランチで編集
+mainブランチで編集(rebase コンフリクト用)
