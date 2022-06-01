@@ -3,4 +3,4 @@
 ローカルリポで保存
 rebase-practiceブランチで編集(rebase コンフリクト用)
 rebase用pull
-stash練習
+stash練習(トラック済み)
